@@ -1,0 +1,6 @@
+name: LuckDeath
+main: Anders\LuckDeath\Main
+version: 1.0.0
+api: 3.0.0
+load: POSTWORLD
+description: 死亡随机掉落物品
