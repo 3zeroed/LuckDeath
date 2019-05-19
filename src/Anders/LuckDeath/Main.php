@@ -14,6 +14,7 @@
   GitHub: https://github.com/Anders233
 
  */
+declare(strict_types=1);
 
 namespace Anders\LuckDeath;
 
