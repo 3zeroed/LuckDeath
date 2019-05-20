@@ -3,4 +3,8 @@ main: Anders\LuckDeath\Main
 version: 1.0.0
 api: 3.0.0
 load: POSTWORLD
+authors: 
+- Anders
+- wode490390
+website: https://github.com/Anders233/LuckDeath
 description: 死亡随机掉落物品
