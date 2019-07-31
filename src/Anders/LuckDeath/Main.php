@@ -9,8 +9,6 @@
  |_____|\__,_| \___||_|\_\ |____/  \___| \__,_| \__||_| |_|
  
  LuckDeath by Anders
- QQ: 480177664
- Mail: fox404@foxmail.com
  GitHub: https://github.com/Anders233
  
  */
