@@ -1,4 +1,4 @@
-<h1>LuckDeath - 死亡随机掉落物品<img src="https://raw.githubusercontent.com/Anders233/LuckDeath/master/logo.png" height="64" width="64" align="left"></img></h1>
+<h1>LuckDeath - 死亡随机掉落物品<img src="https://raw.githubusercontent.com/3zeroed/LuckDeath/master/logo.png" height="64" width="64" align="left"></img></h1>
 
 ## 一个用来增加游戏趣味性的小插件
 
@@ -18,6 +18,3 @@
 > - [x] 配置文件自定义概率
 > - [x] 可设置随机掉落世界
 > - [x] 死亡随机扣除钱(EconomyAPI)
-> - [ ] 倒计时重生
-> - [ ] 死亡后生成NPC(躺倒在地)
-> - [ ] 死亡后生成墓碑
